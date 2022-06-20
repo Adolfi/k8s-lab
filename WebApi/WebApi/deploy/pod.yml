@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: webapi-app
+  labels:
+    app: webapi-app
+spec:
+  containers:
+    - name: webapi
+      image: dadolfi/webapi:latest
+      ports:
+        - containerPort: 8080

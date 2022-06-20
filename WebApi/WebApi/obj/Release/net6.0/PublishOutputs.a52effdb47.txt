@@ -1,0 +1,11 @@
+C:\Users\dadolfi\Desktop\Kub\WebApi\WebApi\obj\Docker\publish\WebApi.exe
+C:\Users\dadolfi\Desktop\Kub\WebApi\WebApi\obj\Docker\publish\appsettings.Development.json
+C:\Users\dadolfi\Desktop\Kub\WebApi\WebApi\obj\Docker\publish\appsettings.json
+C:\Users\dadolfi\Desktop\Kub\WebApi\WebApi\obj\Docker\publish\WebApi.dll
+C:\Users\dadolfi\Desktop\Kub\WebApi\WebApi\obj\Docker\publish\WebApi.deps.json
+C:\Users\dadolfi\Desktop\Kub\WebApi\WebApi\obj\Docker\publish\WebApi.runtimeconfig.json
+C:\Users\dadolfi\Desktop\Kub\WebApi\WebApi\obj\Docker\publish\WebApi.pdb
+C:\Users\dadolfi\Desktop\Kub\WebApi\WebApi\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\dadolfi\Desktop\Kub\WebApi\WebApi\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dadolfi\Desktop\Kub\WebApi\WebApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dadolfi\Desktop\Kub\WebApi\WebApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
